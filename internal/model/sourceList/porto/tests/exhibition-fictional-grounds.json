@@ -1,0 +1,233 @@
+{
+  "pageByUrl": {
+    "__typename": "Event",
+    "id": "36012",
+    "url": "/en/event/exhibition-fictional-grounds/",
+    "fullUrl": "https://www.porto.pt/en/event/exhibition-fictional-grounds/",
+    "title": "Exhibition | “Fictional Grounds”",
+    "seoTitle": "Exhibition | “Fictional Grounds”",
+    "lastPublishedAt": "2022-11-02T15:11:04.263820",
+    "searchDescription": "",
+    "timestamp": "2022-11-02T15:11:04.263820",
+    "categoryPage": {
+      "__typename": "EventsCategoryIndex",
+      "id": "48",
+      "url": "/en/events/category/culture/",
+      "fullUrl": "https://www.porto.pt/en/events/category/culture/",
+      "title": "Culture",
+      "seoTitle": "Culture",
+      "lastPublishedAt": "2020-05-25T09:08:43.017673"
+    },
+    "thumbnail": {
+      "__typename": "CustomImage",
+      "title": "DR_Fictional_Grounds_exposicao_coletivo_berru.jpg",
+      "author": "DR",
+      "caption": null,
+      "placeholderHash": "UIC#y75Ni{0wX4wjS0aL54NF=$-qsESvNYt7",
+      "small": {
+        "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FDR_Fictional_Grounds_exposicao_coletivo_berru.jpg&w=350&q=85"
+      },
+      "medium": {
+        "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FDR_Fictional_Grounds_exposicao_coletivo_berru.jpg&w=730&q=85"
+      },
+      "large": {
+        "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FDR_Fictional_Grounds_exposicao_coletivo_berru.jpg&w=1460&q=85"
+      }
+    },
+    "description": "Soil simulations of an imagined territory through which one can look for traces of minerals with energetic potential and present soil samples from different origins with varied compositions that are mounted in two-dimensional planes – it is this fictional reality that can be watched closely in the new exhibition “Fictional Grounds” by the artistic collective berru.",
+    "dates": [
+      {
+        "start": "2022-10-20 10:00:00",
+        "end": "2023-02-17 19:00:00",
+        "repeating": [
+          {
+            "label": "mon"
+          },
+          {
+            "label": "tue"
+          },
+          {
+            "label": "wed"
+          },
+          {
+            "label": "thu"
+          },
+          {
+            "label": "fri"
+          },
+          {
+            "label": "sat"
+          },
+          {
+            "label": "sun"
+          }
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "location": {
+          "__typename": "Location",
+          "locality": "Escola das Artes da Universidade Católica Portuguesa",
+          "address": "",
+          "latitude": 41.154206798497974,
+          "longitude": -8.672794500504109
+        }
+      }
+    ],
+    "body": [
+      {
+        "__typename": "RichTextBlock",
+        "field": "paragraph",
+        "value": "<p><b>Soil simulations of an imagined territory through which one can look for traces of minerals with energetic potential and present soil samples from different origins with varied compositions that are mounted in two-dimensional planes – it is this fictional reality that can be watched closely in the new exhibition “Fictional Grounds” by the artistic collective berru.</b></p><p>Created in Porto, the collective won the Sonae Media Art 2019 award, and has already exhibited and was responsible for installations at institutions such as Calouste Gulbenkian Foundation, BoCA Biennial of Contemporary Arts, and The Old Truman Brewey (London).</p><p>Viewed critically and driven by the urgency of the current ecological catastrophe, the exhibition establishes a subtle relationship with the world of earthworks by pioneering Land Art artists such as Robert Smithson, Richard Long or the famous exhibition by Walter de Maria when in 1977 he filled a gallery in New York with 140 tons of earth.</p><p>Entry is free.</p>\n"
+      }
+    ],
+    "tags": [],
+    "advertisementsVertical": [
+      {
+        "__typename": "Advertisement",
+        "id": "141",
+        "imageDesktop": {
+          "__typename": "CustomImage",
+          "title": "Banner site porto 350x560px.jpg",
+          "placeholderHash": "U99K+dk=1rtkG@n+wNXRP.kBvhnP}bogS^t7",
+          "small": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FBanner_site_porto_350x560px.jpg&w=350&q=85"
+          },
+          "medium": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FBanner_site_porto_350x560px.jpg&w=700&q=85"
+          }
+        },
+        "imageMobile": {
+          "__typename": "CustomImage",
+          "title": "Banner site porto 350x560px.jpg",
+          "placeholderHash": "U99K+dk=1rtkG@n+wNXRP.kBvhnP}bogS^t7",
+          "small": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FBanner_site_porto_350x560px_SLZR7Kr.jpg&w=350&q=85"
+          },
+          "medium": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FBanner_site_porto_350x560px_SLZR7Kr.jpg&w=700&q=85"
+          }
+        },
+        "caption": null,
+        "linkPage": null,
+        "linkUrl": "https://www.porto.pt/pt/noticia/os-jardins-do-palacio-de-cristal-abrem-as-portas-ao-natal",
+        "linkText": ""
+      },
+      {
+        "__typename": "Advertisement",
+        "id": "21",
+        "imageDesktop": {
+          "__typename": "CustomImage",
+          "title": "trotinete_2_1.jpg",
+          "placeholderHash": "UD98$F_NIBM}?u%fRjM|MyV[j[j[R.Rkt7t7",
+          "small": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2Ftrotinete_2_1.jpg&w=350&q=85"
+          },
+          "medium": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2Ftrotinete_2_1.jpg&w=700&q=85"
+          }
+        },
+        "imageMobile": {
+          "__typename": "CustomImage",
+          "title": "trotinete_2_1.jpg",
+          "placeholderHash": "UD98$F_NIBM}?u%fRjM|MyV[j[j[R.Rkt7t7",
+          "small": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2Ftrotinete_2_1.jpg&w=350&q=85"
+          },
+          "medium": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2Ftrotinete_2_1.jpg&w=700&q=85"
+          }
+        },
+        "caption": null,
+        "linkPage": null,
+        "linkUrl": null,
+        "linkText": ""
+      }
+    ],
+    "advertisementsHorizontal": [
+      {
+        "id": "118",
+        "imageDesktop": {
+          "__typename": "CustomImage",
+          "title": "banner horizontal bolhão.jpeg",
+          "placeholderHash": "UNC}|K9uR%%1}?EMofkCaKWCtQNa$*WVWUWV",
+          "small": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2Fbanner_horizontal_bolhao.jpeg&w=290&q=85"
+          },
+          "medium": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2Fbanner_horizontal_bolhao.jpeg&w=580&q=85"
+          },
+          "large": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2Fbanner_horizontal_bolhao.jpeg&w=1110&q=85"
+          },
+          "extraLarge": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2Fbanner_horizontal_bolhao.jpeg&w=2220&q=85"
+          }
+        },
+        "imageMobile": {
+          "__typename": "CustomImage",
+          "title": "BOLHAO RESPONSIV.jpeg",
+          "placeholderHash": "UHF;vF;2-nIoyBiw={M|0fnix]W.-VSyxZsm",
+          "small": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FBOLHAO_RESPONSIV.jpeg&w=290&q=85"
+          },
+          "medium": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FBOLHAO_RESPONSIV.jpeg&w=580&q=85"
+          },
+          "large": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FBOLHAO_RESPONSIV.jpeg&w=1110&q=85"
+          },
+          "extraLarge": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FBOLHAO_RESPONSIV.jpeg&w=2220&q=85"
+          }
+        },
+        "caption": null,
+        "linkPage": null,
+        "linkUrl": "https://mercadobolhao.pt/",
+        "linkText": ""
+      },
+      {
+        "id": "30",
+        "imageDesktop": {
+          "__typename": "CustomImage",
+          "title": "Shop in Porto Horizontal EN",
+          "placeholderHash": "UcEMg[oH4mkWozofjsWCIUj[WBoLxuWBM{s:",
+          "small": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FJOB00545_Shop_in_Porto_Publicidade_Portal_Porto._banner_horizonal_2220x4_iphKwjQ.png&w=290&q=85"
+          },
+          "medium": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FJOB00545_Shop_in_Porto_Publicidade_Portal_Porto._banner_horizonal_2220x4_iphKwjQ.png&w=580&q=85"
+          },
+          "large": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FJOB00545_Shop_in_Porto_Publicidade_Portal_Porto._banner_horizonal_2220x4_iphKwjQ.png&w=1110&q=85"
+          },
+          "extraLarge": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FJOB00545_Shop_in_Porto_Publicidade_Portal_Porto._banner_horizonal_2220x4_iphKwjQ.png&w=2220&q=85"
+          }
+        },
+        "imageMobile": {
+          "__typename": "CustomImage",
+          "title": "Shop in Porto Mobile EN",
+          "placeholderHash": "UFAT+x9E,APqTK-UNboL9ZxaWWaKVXE3f6sk",
+          "small": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FJOB00545_Shop_in_Porto_Publicidade_Portal_Porto._banner_vertical_576x400_ggosFYp.png&w=290&q=85"
+          },
+          "medium": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FJOB00545_Shop_in_Porto_Publicidade_Portal_Porto._banner_vertical_576x400_ggosFYp.png&w=580&q=85"
+          },
+          "large": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FJOB00545_Shop_in_Porto_Publicidade_Portal_Porto._banner_vertical_576x400_ggosFYp.png&w=1110&q=85"
+          },
+          "extraLarge": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FJOB00545_Shop_in_Porto_Publicidade_Portal_Porto._banner_vertical_576x400_ggosFYp.png&w=2220&q=85"
+          }
+        },
+        "caption": null,
+        "linkPage": null,
+        "linkUrl": "https://www.porto.pt/en/news/goods-ideas-places-and-trends-served-up-by-shop-in-porto-the-traditional-trade-new-online-platform-",
+        "linkText": ""
+      }
+    ]
+  }
+}

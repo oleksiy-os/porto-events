@@ -1,0 +1,31 @@
+production_mode = true
+sources_list_path = "configs/event-sources.toml"
+#sources_list_path = "internal/model/sourceList/testing/event-sources-testing.toml"
+
+
+### Log ##
+#Levels: panic = 0, fatal = 1, error = 2, warn = 3, info = 4, debug = 5, trace = 6
+log_level = 3
+
+
+[server]
+bind_addr = ":8080"
+
+[telegram]
+bot_api_token = ""
+# Telegram channel where bot posts info. For private channels use channel_id
+# Example -1001690000000
+channel_id = ""
+# Example @PortoEventsChannelTest
+channel_name = ""
+
+
+# NOTION - store events
+[notion]
+timer_check = 48 # how often check for new events, value in hours
+# token & bearer secret key
+# Example "secret_2xVEzYXn5EugGJfecLKJFFFFffffffFFFFFffff"
+token = ""
+# Page ID example "f34765a8-38f1-4a1e-b335-f1bc78888888"
+page_id_events = ""
+page_id_config = ""

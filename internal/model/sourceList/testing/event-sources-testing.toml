@@ -1,0 +1,4 @@
+[[source]]
+name = "testing"
+#should be valid url, because in the code has url validation
+url  = "https://testing-store-fake-url.com"

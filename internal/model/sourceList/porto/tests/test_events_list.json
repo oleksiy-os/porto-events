@@ -1,0 +1,650 @@
+{
+  "pageByUrl": {
+    "__typename": "EventsIndexPage",
+    "id": "40",
+    "url": "/en/events/",
+    "fullUrl": "https://www.porto.pt/en/events/",
+    "title": "Porto. Events",
+    "seoTitle": "Porto. Events",
+    "lastPublishedAt": "2020-05-25T09:08:42.266647",
+    "searchDescription": "",
+    "advertisementsVertical": [
+      {
+        "__typename": "Advertisement",
+        "id": "141",
+        "imageDesktop": {
+          "__typename": "CustomImage",
+          "title": "Banner site porto 350x560px.jpg",
+          "placeholderHash": "U99K+dk=1rtkG@n+wNXRP.kBvhnP}bogS^t7",
+          "small": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FBanner_site_porto_350x560px.jpg&w=350&q=85"
+          },
+          "medium": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FBanner_site_porto_350x560px.jpg&w=700&q=85"
+          }
+        },
+        "imageMobile": {
+          "__typename": "CustomImage",
+          "title": "Banner site porto 350x560px.jpg",
+          "placeholderHash": "U99K+dk=1rtkG@n+wNXRP.kBvhnP}bogS^t7",
+          "small": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FBanner_site_porto_350x560px_SLZR7Kr.jpg&w=350&q=85"
+          },
+          "medium": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FBanner_site_porto_350x560px_SLZR7Kr.jpg&w=700&q=85"
+          }
+        },
+        "caption": null,
+        "linkPage": null,
+        "linkUrl": "https://www.porto.pt/pt/noticia/os-jardins-do-palacio-de-cristal-abrem-as-portas-ao-natal",
+        "linkText": ""
+      },
+      {
+        "__typename": "Advertisement",
+        "id": "138",
+        "imageDesktop": {
+          "__typename": "CustomImage",
+          "title": "Claudia_Dias_Porto.jpg",
+          "placeholderHash": "U67^0=-V-o$*|{xZW;t6EMNINHIp1^jHnjj]",
+          "small": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FClaudia_Dias_Porto.jpg&w=350&q=85"
+          },
+          "medium": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FClaudia_Dias_Porto.jpg&w=700&q=85"
+          }
+        },
+        "imageMobile": {
+          "__typename": "CustomImage",
+          "title": "Claudia_Dias_Porto.jpg",
+          "placeholderHash": "U67^0=-V-o$*|{xZW;t6EMNINHIp1^jHnjj]",
+          "small": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FClaudia_Dias_Porto.jpg&w=350&q=85"
+          },
+          "medium": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FClaudia_Dias_Porto.jpg&w=700&q=85"
+          }
+        },
+        "caption": null,
+        "linkPage": null,
+        "linkUrl": "https://www.teatromunicipaldoporto.pt/pt/evento-destaque/ciclo-sete-anos-sete-pecas/",
+        "linkText": ""
+      },
+      {
+        "__typename": "Advertisement",
+        "id": "21",
+        "imageDesktop": {
+          "__typename": "CustomImage",
+          "title": "trotinete_2_1.jpg",
+          "placeholderHash": "UD98$F_NIBM}?u%fRjM|MyV[j[j[R.Rkt7t7",
+          "small": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2Ftrotinete_2_1.jpg&w=350&q=85"
+          },
+          "medium": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2Ftrotinete_2_1.jpg&w=700&q=85"
+          }
+        },
+        "imageMobile": {
+          "__typename": "CustomImage",
+          "title": "trotinete_2_1.jpg",
+          "placeholderHash": "UD98$F_NIBM}?u%fRjM|MyV[j[j[R.Rkt7t7",
+          "small": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2Ftrotinete_2_1.jpg&w=350&q=85"
+          },
+          "medium": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2Ftrotinete_2_1.jpg&w=700&q=85"
+          }
+        },
+        "caption": null,
+        "linkPage": null,
+        "linkUrl": null,
+        "linkText": ""
+      }
+    ],
+    "advertisementsHorizontal": [
+      {
+        "id": "118",
+        "imageDesktop": {
+          "__typename": "CustomImage",
+          "title": "banner horizontal bolhão.jpeg",
+          "placeholderHash": "UNC}|K9uR%%1}?EMofkCaKWCtQNa$*WVWUWV",
+          "small": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2Fbanner_horizontal_bolhao.jpeg&w=290&q=85"
+          },
+          "medium": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2Fbanner_horizontal_bolhao.jpeg&w=580&q=85"
+          },
+          "large": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2Fbanner_horizontal_bolhao.jpeg&w=1110&q=85"
+          },
+          "extraLarge": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2Fbanner_horizontal_bolhao.jpeg&w=2220&q=85"
+          }
+        },
+        "imageMobile": {
+          "__typename": "CustomImage",
+          "title": "BOLHAO RESPONSIV.jpeg",
+          "placeholderHash": "UHF;vF;2-nIoyBiw={M|0fnix]W.-VSyxZsm",
+          "small": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FBOLHAO_RESPONSIV.jpeg&w=290&q=85"
+          },
+          "medium": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FBOLHAO_RESPONSIV.jpeg&w=580&q=85"
+          },
+          "large": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FBOLHAO_RESPONSIV.jpeg&w=1110&q=85"
+          },
+          "extraLarge": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FBOLHAO_RESPONSIV.jpeg&w=2220&q=85"
+          }
+        },
+        "caption": null,
+        "linkPage": null,
+        "linkUrl": "https://mercadobolhao.pt/",
+        "linkText": ""
+      },
+      {
+        "id": "30",
+        "imageDesktop": {
+          "__typename": "CustomImage",
+          "title": "Shop in Porto Horizontal EN",
+          "placeholderHash": "UcEMg[oH4mkWozofjsWCIUj[WBoLxuWBM{s:",
+          "small": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FJOB00545_Shop_in_Porto_Publicidade_Portal_Porto._banner_horizonal_2220x4_iphKwjQ.png&w=290&q=85"
+          },
+          "medium": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FJOB00545_Shop_in_Porto_Publicidade_Portal_Porto._banner_horizonal_2220x4_iphKwjQ.png&w=580&q=85"
+          },
+          "large": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FJOB00545_Shop_in_Porto_Publicidade_Portal_Porto._banner_horizonal_2220x4_iphKwjQ.png&w=1110&q=85"
+          },
+          "extraLarge": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FJOB00545_Shop_in_Porto_Publicidade_Portal_Porto._banner_horizonal_2220x4_iphKwjQ.png&w=2220&q=85"
+          }
+        },
+        "imageMobile": {
+          "__typename": "CustomImage",
+          "title": "Shop in Porto Mobile EN",
+          "placeholderHash": "UFAT+x9E,APqTK-UNboL9ZxaWWaKVXE3f6sk",
+          "small": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FJOB00545_Shop_in_Porto_Publicidade_Portal_Porto._banner_vertical_576x400_ggosFYp.png&w=290&q=85"
+          },
+          "medium": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FJOB00545_Shop_in_Porto_Publicidade_Portal_Porto._banner_vertical_576x400_ggosFYp.png&w=580&q=85"
+          },
+          "large": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FJOB00545_Shop_in_Porto_Publicidade_Portal_Porto._banner_vertical_576x400_ggosFYp.png&w=1110&q=85"
+          },
+          "extraLarge": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FJOB00545_Shop_in_Porto_Publicidade_Portal_Porto._banner_vertical_576x400_ggosFYp.png&w=2220&q=85"
+          }
+        },
+        "caption": null,
+        "linkPage": null,
+        "linkUrl": "https://www.porto.pt/en/news/goods-ideas-places-and-trends-served-up-by-shop-in-porto-the-traditional-trade-new-online-platform-",
+        "linkText": ""
+      }
+    ],
+    "subMenu": {
+      "__typename": "Menu",
+      "title": "Events",
+      "menuItems": [
+        {
+          "__typename": "MenuItem",
+          "linkPage": {
+            "label": "Porto. Events",
+            "href": "/en/events/"
+          },
+          "linkUrl": null,
+          "linkText": "All"
+        },
+        {
+          "__typename": "MenuItem",
+          "linkPage": {
+            "label": "Economy",
+            "href": "/en/events/category/economy/"
+          },
+          "linkUrl": null,
+          "linkText": ""
+        },
+        {
+          "__typename": "MenuItem",
+          "linkPage": {
+            "label": "Culture",
+            "href": "/en/events/category/culture/"
+          },
+          "linkUrl": null,
+          "linkText": ""
+        },
+        {
+          "__typename": "MenuItem",
+          "linkPage": {
+            "label": "Politics",
+            "href": "/en/events/category/politics/"
+          },
+          "linkUrl": null,
+          "linkText": ""
+        },
+        {
+          "__typename": "MenuItem",
+          "linkPage": {
+            "label": "Society",
+            "href": "/en/events/category/society/"
+          },
+          "linkUrl": null,
+          "linkText": ""
+        },
+        {
+          "__typename": "MenuItem",
+          "linkPage": {
+            "label": "Mobility",
+            "href": "/en/events/category/mobility/"
+          },
+          "linkUrl": null,
+          "linkText": ""
+        },
+        {
+          "__typename": "MenuItem",
+          "linkPage": {
+            "label": "Environment",
+            "href": "/en/events/category/environment/"
+          },
+          "linkUrl": null,
+          "linkText": ""
+        },
+        {
+          "__typename": "MenuItem",
+          "linkPage": {
+            "label": "Sports",
+            "href": "/en/events/category/sports/"
+          },
+          "linkUrl": null,
+          "linkText": ""
+        }
+      ]
+    },
+    "events": {
+      "items": [
+        {
+          "__typename": "Event",
+          "id": "36011",
+          "url": "/en/event/exhibition-este-mundo-nao-nos-pertence/",
+          "fullUrl": "https://www.porto.pt/en/event/exhibition-este-mundo-nao-nos-pertence/",
+          "title": "Exhibition | “Este mundo não nos pertence”",
+          "seoTitle": "Exhibition | “Este mundo não nos pertence”",
+          "lastPublishedAt": "2022-11-02T15:01:33.546925",
+          "searchDescription": "",
+          "timestamp": "2022-11-02T15:01:33.546925",
+          "categoryPage": {
+            "__typename": "EventsCategoryIndex",
+            "id": "48",
+            "url": "/en/events/category/culture/",
+            "fullUrl": "https://www.porto.pt/en/events/category/culture/",
+            "title": "Culture",
+            "seoTitle": "Culture",
+            "lastPublishedAt": "2020-05-25T09:08:43.017673"
+          },
+          "thumbnail": {
+            "__typename": "CustomImage",
+            "title": "Isabel_Mota_Fernando_Pereira_exposicao_Este_mundo_nao_nos_pertence_01.JPG",
+            "author": "Isabel Mota e Fernando Pereira",
+            "caption": null,
+            "placeholderHash": "UDE{kJ?b~qIoWBM{D%Rjj?IUIVWVM{oet7M{",
+            "small": {
+              "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FIsabel_Mota_Fernando_Pereira_exposicao_Este_mundo_nao_nos_pertence_01.JPG&w=350&q=85"
+            },
+            "medium": {
+              "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FIsabel_Mota_Fernando_Pereira_exposicao_Este_mundo_nao_nos_pertence_01.JPG&w=730&q=85"
+            },
+            "large": {
+              "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FIsabel_Mota_Fernando_Pereira_exposicao_Este_mundo_nao_nos_pertence_01.JPG&w=1460&q=85"
+            }
+          },
+          "description": "National and foreign authors on temporary exhibition from May 12.",
+          "dates": [
+            {
+              "start": "2022-05-12 10:00:00",
+              "end": "2022-12-31 18:00:00",
+              "repeating": [
+                {
+                  "label": "mon"
+                },
+                {
+                  "label": "tue"
+                },
+                {
+                  "label": "wed"
+                },
+                {
+                  "label": "thu"
+                },
+                {
+                  "label": "fri"
+                },
+                {
+                  "label": "sat"
+                },
+                {
+                  "label": "sun"
+                }
+              ]
+            }
+          ],
+          "locations": [
+            {
+              "location": {
+                "__typename": "Location",
+                "locality": "Museu FC Porto - Espaço João Espregueira Mendes",
+                "address": "",
+                "latitude": 41.16136672287508,
+                "longitude": -8.583016407398283
+              }
+            }
+          ]
+        },
+        {
+          "__typename": "Event",
+          "id": "36012",
+          "url": "/en/event/exhibition-fictional-grounds/",
+          "fullUrl": "https://www.porto.pt/en/event/exhibition-fictional-grounds/",
+          "title": "Exhibition | “Fictional Grounds”",
+          "seoTitle": "Exhibition | “Fictional Grounds”",
+          "lastPublishedAt": "2022-11-02T15:11:04.263820",
+          "searchDescription": "",
+          "timestamp": "2022-11-02T15:11:04.263820",
+          "categoryPage": {
+            "__typename": "EventsCategoryIndex",
+            "id": "48",
+            "url": "/en/events/category/culture/",
+            "fullUrl": "https://www.porto.pt/en/events/category/culture/",
+            "title": "Culture",
+            "seoTitle": "Culture",
+            "lastPublishedAt": "2020-05-25T09:08:43.017673"
+          },
+          "thumbnail": {
+            "__typename": "CustomImage",
+            "title": "DR_Fictional_Grounds_exposicao_coletivo_berru.jpg",
+            "author": "DR",
+            "caption": null,
+            "placeholderHash": "UIC#y75Ni{0wX4wjS0aL54NF=$-qsESvNYt7",
+            "small": {
+              "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FDR_Fictional_Grounds_exposicao_coletivo_berru.jpg&w=350&q=85"
+            },
+            "medium": {
+              "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FDR_Fictional_Grounds_exposicao_coletivo_berru.jpg&w=730&q=85"
+            },
+            "large": {
+              "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FDR_Fictional_Grounds_exposicao_coletivo_berru.jpg&w=1460&q=85"
+            }
+          },
+          "description": "Soil simulations of an imagined territory through which one can look for traces of minerals with energetic potential and present soil samples from different origins with varied compositions that are mounted in two-dimensional planes – it is this fictional reality that can be watched closely in the new exhibition “Fictional Grounds” by the artistic collective berru.",
+          "dates": [
+            {
+              "start": "2022-10-20 10:00:00",
+              "end": "2023-02-17 19:00:00",
+              "repeating": [
+                {
+                  "label": "mon"
+                },
+                {
+                  "label": "tue"
+                },
+                {
+                  "label": "wed"
+                },
+                {
+                  "label": "thu"
+                },
+                {
+                  "label": "fri"
+                },
+                {
+                  "label": "sat"
+                },
+                {
+                  "label": "sun"
+                }
+              ]
+            }
+          ],
+          "locations": [
+            {
+              "location": {
+                "__typename": "Location",
+                "locality": "Escola das Artes da Universidade Católica Portuguesa",
+                "address": "",
+                "latitude": 41.154206798497974,
+                "longitude": -8.672794500504109
+              }
+            }
+          ]
+        },
+        {
+          "__typename": "Event",
+          "id": "35974",
+          "url": "/en/event/exhibition-walking-art-maps/",
+          "fullUrl": "https://www.porto.pt/en/event/exhibition-walking-art-maps/",
+          "title": "Exhibition | Walking Art Maps",
+          "seoTitle": "Exhibition | Walking Art Maps",
+          "lastPublishedAt": "2022-10-28T12:01:58.035132",
+          "searchDescription": "",
+          "timestamp": "2022-10-28T12:01:58.035132",
+          "categoryPage": {
+            "__typename": "EventsCategoryIndex",
+            "id": "48",
+            "url": "/en/events/category/culture/",
+            "fullUrl": "https://www.porto.pt/en/events/category/culture/",
+            "title": "Culture",
+            "seoTitle": "Culture",
+            "lastPublishedAt": "2020-05-25T09:08:43.017673"
+          },
+          "thumbnail": {
+            "__typename": "CustomImage",
+            "title": "DR_pavilhao_de_exposicoes_FBAUP.jpg",
+            "author": "DR",
+            "caption": null,
+            "placeholderHash": "UOJ%|9xu9FkC.9ofskxa~WM{9Ft8-:t7D*WB",
+            "small": {
+              "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FDR_pavilhao_de_exposicoes_FBAUP.jpg&w=350&q=85"
+            },
+            "medium": {
+              "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FDR_pavilhao_de_exposicoes_FBAUP.jpg&w=730&q=85"
+            },
+            "large": {
+              "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FDR_pavilhao_de_exposicoes_FBAUP.jpg&w=1460&q=85"
+            }
+          },
+          "description": "The Walking Art Maps – #asbelasarteseacidade exhibition, especially dedicated to international students, within the scope of the 35th anniversary of ERASMUS+, opens this Wednesday at the Exhibition Pavilion of the Faculty of Fine Arts of the U. Porto.",
+          "dates": [
+            {
+              "start": "2022-10-26 17:30:00",
+              "end": "2023-01-14 18:00:00",
+              "repeating": [
+                {
+                  "label": "mon"
+                },
+                {
+                  "label": "tue"
+                },
+                {
+                  "label": "wed"
+                },
+                {
+                  "label": "thu"
+                },
+                {
+                  "label": "fri"
+                },
+                {
+                  "label": "sat"
+                },
+                {
+                  "label": "sun"
+                }
+              ]
+            }
+          ],
+          "locations": [
+            {
+              "location": {
+                "__typename": "Location",
+                "locality": "Porto",
+                "address": "Faculdade de Belas Artes",
+                "latitude": 41.145647,
+                "longitude": -8.600677
+              }
+            }
+          ]
+        },
+        {
+          "__typename": "Event",
+          "id": "35973",
+          "url": "/en/event/exhibition-so-what/",
+          "fullUrl": "https://www.porto.pt/en/event/exhibition-so-what/",
+          "title": "Exhibition | So What",
+          "seoTitle": "Exhibition | So What",
+          "lastPublishedAt": "2022-10-28T11:54:03.663433",
+          "searchDescription": "",
+          "timestamp": "2022-10-28T11:54:03.663433",
+          "categoryPage": {
+            "__typename": "EventsCategoryIndex",
+            "id": "48",
+            "url": "/en/events/category/culture/",
+            "fullUrl": "https://www.porto.pt/en/events/category/culture/",
+            "title": "Culture",
+            "seoTitle": "Culture",
+            "lastPublishedAt": "2020-05-25T09:08:43.017673"
+          },
+          "thumbnail": {
+            "__typename": "CustomImage",
+            "title": "#Por_do_Sol_nas_artes_Casa_das_Artes.jpg",
+            "author": null,
+            "caption": null,
+            "placeholderHash": "UOBWiANg4n%0_NbcIAs+k[xvrpM{k@xunMM|",
+            "small": {
+              "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2Fc48fd81f0c34-Por_do_Sol_nas_artes_Casa_das_Artes.jpg&w=350&q=85"
+            },
+            "medium": {
+              "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2Fc48fd81f0c34-Por_do_Sol_nas_artes_Casa_das_Artes.jpg&w=730&q=85"
+            },
+            "large": {
+              "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2Fc48fd81f0c34-Por_do_Sol_nas_artes_Casa_das_Artes.jpg&w=1460&q=85"
+            }
+          },
+          "description": "Three architects - Diogo Aguiar, Dulcineia Santos and Nuno Melo Sousa - proposed to illuminate the conceptual bases of their three architectural discourses in the exhibition entitled \"SO WHAT\".",
+          "dates": [
+            {
+              "start": "2022-11-05 15:30:00",
+              "end": "2022-12-23 19:00:00",
+              "repeating": [
+                {
+                  "label": "mon"
+                },
+                {
+                  "label": "tue"
+                },
+                {
+                  "label": "wed"
+                },
+                {
+                  "label": "thu"
+                },
+                {
+                  "label": "fri"
+                },
+                {
+                  "label": "sat"
+                },
+                {
+                  "label": "sun"
+                }
+              ]
+            }
+          ],
+          "locations": [
+            {
+              "location": {
+                "__typename": "Location",
+                "locality": "Porto",
+                "address": "Casa das Artes",
+                "latitude": 41.156465,
+                "longitude": -8.643391
+              }
+            }
+          ]
+        },
+        {
+          "__typename": "Event",
+          "id": "36013",
+          "url": "/en/event/show-impossible-by-luis-de-matos/",
+          "fullUrl": "https://www.porto.pt/en/event/show-impossible-by-luis-de-matos/",
+          "title": "Show | IMPOSSIBLE, by Luís de Matos",
+          "seoTitle": "Show | IMPOSSIBLE, by Luís de Matos",
+          "lastPublishedAt": "2022-11-02T15:15:11.739884",
+          "searchDescription": "",
+          "timestamp": "2022-11-02T15:15:11.739884",
+          "categoryPage": {
+            "__typename": "EventsCategoryIndex",
+            "id": "48",
+            "url": "/en/events/category/culture/",
+            "fullUrl": "https://www.porto.pt/en/events/category/culture/",
+            "title": "Culture",
+            "seoTitle": "Culture",
+            "lastPublishedAt": "2020-05-25T09:08:43.017673"
+          },
+          "thumbnail": {
+            "__typename": "CustomImage",
+            "title": "DR_Luis_de_Matos_coliseu.jpg",
+            "author": "DR",
+            "caption": null,
+            "placeholderHash": "U_N^b#of~qt7-;ofRjWBxuazRPfQxuWBWBof",
+            "small": {
+              "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FDR_Luis_de_Matos_coliseu.jpg&w=350&q=85"
+            },
+            "medium": {
+              "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FDR_Luis_de_Matos_coliseu.jpg&w=730&q=85"
+            },
+            "large": {
+              "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FDR_Luis_de_Matos_coliseu.jpg&w=1460&q=85"
+            }
+          },
+          "description": "“Luís de Matos IMPOSSIBLE Live” ends its national tour at Coliseu do Porto with shows on January 13th and 14th.",
+          "dates": [
+            {
+              "start": "2023-01-13 21:00:00",
+              "end": "2023-01-14 18:00:00",
+              "repeating": [
+                {
+                  "label": "fri"
+                },
+                {
+                  "label": "sat"
+                }
+              ]
+            }
+          ],
+          "locations": [
+            {
+              "location": {
+                "__typename": "Location",
+                "locality": "Porto",
+                "address": "Coliseu Porto Ageas",
+                "latitude": 41.146992,
+                "longitude": -8.605417
+              }
+            }
+          ]
+        }
+      ],
+      "pagination": {
+        "__typename": "Pagination",
+        "total": 5,
+        "count": 5,
+        "perPage": 10,
+        "currentPage": 1,
+        "prevPage": null,
+        "nextPage": null,
+        "totalPages": 1
+      }
+    }
+  }
+}

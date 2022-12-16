@@ -1,0 +1,263 @@
+{
+  "pageByUrl": {
+    "__typename": "Event",
+    "id": "36011",
+    "url": "/en/event/exhibition-este-mundo-nao-nos-pertence/",
+    "fullUrl": "https://www.porto.pt/en/event/exhibition-este-mundo-nao-nos-pertence/",
+    "title": "Exhibition | “Este mundo não nos pertence”",
+    "seoTitle": "Exhibition | “Este mundo não nos pertence”",
+    "lastPublishedAt": "2022-11-02T15:01:33.546925",
+    "searchDescription": "",
+    "timestamp": "2022-11-02T15:01:33.546925",
+    "categoryPage": {
+      "__typename": "EventsCategoryIndex",
+      "id": "48",
+      "url": "/en/events/category/culture/",
+      "fullUrl": "https://www.porto.pt/en/events/category/culture/",
+      "title": "Culture",
+      "seoTitle": "Culture",
+      "lastPublishedAt": "2020-05-25T09:08:43.017673"
+    },
+    "thumbnail": {
+      "__typename": "CustomImage",
+      "title": "Isabel_Mota_Fernando_Pereira_exposicao_Este_mundo_nao_nos_pertence_01.JPG",
+      "author": "Isabel Mota e Fernando Pereira",
+      "caption": null,
+      "placeholderHash": "UDE{kJ?b~qIoWBM{D%Rjj?IUIVWVM{oet7M{",
+      "small": {
+        "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FIsabel_Mota_Fernando_Pereira_exposicao_Este_mundo_nao_nos_pertence_01.JPG&w=350&q=85"
+      },
+      "medium": {
+        "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FIsabel_Mota_Fernando_Pereira_exposicao_Este_mundo_nao_nos_pertence_01.JPG&w=730&q=85"
+      },
+      "large": {
+        "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FIsabel_Mota_Fernando_Pereira_exposicao_Este_mundo_nao_nos_pertence_01.JPG&w=1460&q=85"
+      }
+    },
+    "description": "National and foreign authors on temporary exhibition from May 12.",
+    "dates": [
+      {
+        "start": "2022-05-12 10:00:00",
+        "end": "2022-12-31 18:00:00",
+        "repeating": [
+          {
+            "label": "mon"
+          },
+          {
+            "label": "tue"
+          },
+          {
+            "label": "wed"
+          },
+          {
+            "label": "thu"
+          },
+          {
+            "label": "fri"
+          },
+          {
+            "label": "sat"
+          },
+          {
+            "label": "sun"
+          }
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "location": {
+          "__typename": "Location",
+          "locality": "Museu FC Porto - Espaço João Espregueira Mendes",
+          "address": "",
+          "latitude": 41.16136672287508,
+          "longitude": -8.583016407398283
+        }
+      }
+    ],
+    "body": [
+      {
+        "__typename": "RichTextBlock",
+        "field": "paragraph",
+        "value": "<p><b>The temporary exhibition “Este mundo não nos pertence” (&quot;This world does not belong to us&quot;) marks the fourth great moment of artistic and cultural dissemination of Espaço João Espregueira Mendes (EJEM), at Museu Futebol Clube do Porto, with national and foreign authors.</b></p><p>From the private collection of Isabel Mota and Fernando Pereira, painting, sculpture, drawing and photography come together in an interesting approach to contemporary art from the end of the 20th century to the present.</p><p>Open to the public on May 12, the exhibition has been extended and can continue to be visited until December 31. Entry is free.</p><p>Complete information at<b> </b><a href=\"https://www.fcporto.pt/pt/museu/agenda/e-2022-05-12-pt-este-mundo-nao-nos-pertence-obras-da-colecao-isabel-mota-e-fernando-pereira-espaco-joao-espregueira-mendes\"><b>Futebol Clube do Porto website</b></a><b>.</b></p>\n"
+      }
+    ],
+    "tags": [],
+    "advertisementsVertical": [
+      {
+        "__typename": "Advertisement",
+        "id": "141",
+        "imageDesktop": {
+          "__typename": "CustomImage",
+          "title": "Banner site porto 350x560px.jpg",
+          "placeholderHash": "U99K+dk=1rtkG@n+wNXRP.kBvhnP}bogS^t7",
+          "small": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FBanner_site_porto_350x560px.jpg&w=350&q=85"
+          },
+          "medium": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FBanner_site_porto_350x560px.jpg&w=700&q=85"
+          }
+        },
+        "imageMobile": {
+          "__typename": "CustomImage",
+          "title": "Banner site porto 350x560px.jpg",
+          "placeholderHash": "U99K+dk=1rtkG@n+wNXRP.kBvhnP}bogS^t7",
+          "small": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FBanner_site_porto_350x560px_SLZR7Kr.jpg&w=350&q=85"
+          },
+          "medium": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FBanner_site_porto_350x560px_SLZR7Kr.jpg&w=700&q=85"
+          }
+        },
+        "caption": null,
+        "linkPage": null,
+        "linkUrl": "https://www.porto.pt/pt/noticia/os-jardins-do-palacio-de-cristal-abrem-as-portas-ao-natal",
+        "linkText": ""
+      },
+      {
+        "__typename": "Advertisement",
+        "id": "138",
+        "imageDesktop": {
+          "__typename": "CustomImage",
+          "title": "Claudia_Dias_Porto.jpg",
+          "placeholderHash": "U67^0=-V-o$*|{xZW;t6EMNINHIp1^jHnjj]",
+          "small": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FClaudia_Dias_Porto.jpg&w=350&q=85"
+          },
+          "medium": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FClaudia_Dias_Porto.jpg&w=700&q=85"
+          }
+        },
+        "imageMobile": {
+          "__typename": "CustomImage",
+          "title": "Claudia_Dias_Porto.jpg",
+          "placeholderHash": "U67^0=-V-o$*|{xZW;t6EMNINHIp1^jHnjj]",
+          "small": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FClaudia_Dias_Porto.jpg&w=350&q=85"
+          },
+          "medium": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FClaudia_Dias_Porto.jpg&w=700&q=85"
+          }
+        },
+        "caption": null,
+        "linkPage": null,
+        "linkUrl": "https://www.teatromunicipaldoporto.pt/pt/evento-destaque/ciclo-sete-anos-sete-pecas/",
+        "linkText": ""
+      },
+      {
+        "__typename": "Advertisement",
+        "id": "21",
+        "imageDesktop": {
+          "__typename": "CustomImage",
+          "title": "trotinete_2_1.jpg",
+          "placeholderHash": "UD98$F_NIBM}?u%fRjM|MyV[j[j[R.Rkt7t7",
+          "small": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2Ftrotinete_2_1.jpg&w=350&q=85"
+          },
+          "medium": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2Ftrotinete_2_1.jpg&w=700&q=85"
+          }
+        },
+        "imageMobile": {
+          "__typename": "CustomImage",
+          "title": "trotinete_2_1.jpg",
+          "placeholderHash": "UD98$F_NIBM}?u%fRjM|MyV[j[j[R.Rkt7t7",
+          "small": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2Ftrotinete_2_1.jpg&w=350&q=85"
+          },
+          "medium": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2Ftrotinete_2_1.jpg&w=700&q=85"
+          }
+        },
+        "caption": null,
+        "linkPage": null,
+        "linkUrl": null,
+        "linkText": ""
+      }
+    ],
+    "advertisementsHorizontal": [
+      {
+        "id": "118",
+        "imageDesktop": {
+          "__typename": "CustomImage",
+          "title": "banner horizontal bolhão.jpeg",
+          "placeholderHash": "UNC}|K9uR%%1}?EMofkCaKWCtQNa$*WVWUWV",
+          "small": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2Fbanner_horizontal_bolhao.jpeg&w=290&q=85"
+          },
+          "medium": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2Fbanner_horizontal_bolhao.jpeg&w=580&q=85"
+          },
+          "large": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2Fbanner_horizontal_bolhao.jpeg&w=1110&q=85"
+          },
+          "extraLarge": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2Fbanner_horizontal_bolhao.jpeg&w=2220&q=85"
+          }
+        },
+        "imageMobile": {
+          "__typename": "CustomImage",
+          "title": "BOLHAO RESPONSIV.jpeg",
+          "placeholderHash": "UHF;vF;2-nIoyBiw={M|0fnix]W.-VSyxZsm",
+          "small": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FBOLHAO_RESPONSIV.jpeg&w=290&q=85"
+          },
+          "medium": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FBOLHAO_RESPONSIV.jpeg&w=580&q=85"
+          },
+          "large": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FBOLHAO_RESPONSIV.jpeg&w=1110&q=85"
+          },
+          "extraLarge": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FBOLHAO_RESPONSIV.jpeg&w=2220&q=85"
+          }
+        },
+        "caption": null,
+        "linkPage": null,
+        "linkUrl": "https://mercadobolhao.pt/",
+        "linkText": ""
+      },
+      {
+        "id": "30",
+        "imageDesktop": {
+          "__typename": "CustomImage",
+          "title": "Shop in Porto Horizontal EN",
+          "placeholderHash": "UcEMg[oH4mkWozofjsWCIUj[WBoLxuWBM{s:",
+          "small": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FJOB00545_Shop_in_Porto_Publicidade_Portal_Porto._banner_horizonal_2220x4_iphKwjQ.png&w=290&q=85"
+          },
+          "medium": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FJOB00545_Shop_in_Porto_Publicidade_Portal_Porto._banner_horizonal_2220x4_iphKwjQ.png&w=580&q=85"
+          },
+          "large": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FJOB00545_Shop_in_Porto_Publicidade_Portal_Porto._banner_horizonal_2220x4_iphKwjQ.png&w=1110&q=85"
+          },
+          "extraLarge": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FJOB00545_Shop_in_Porto_Publicidade_Portal_Porto._banner_horizonal_2220x4_iphKwjQ.png&w=2220&q=85"
+          }
+        },
+        "imageMobile": {
+          "__typename": "CustomImage",
+          "title": "Shop in Porto Mobile EN",
+          "placeholderHash": "UFAT+x9E,APqTK-UNboL9ZxaWWaKVXE3f6sk",
+          "small": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FJOB00545_Shop_in_Porto_Publicidade_Portal_Porto._banner_vertical_576x400_ggosFYp.png&w=290&q=85"
+          },
+          "medium": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FJOB00545_Shop_in_Porto_Publicidade_Portal_Porto._banner_vertical_576x400_ggosFYp.png&w=580&q=85"
+          },
+          "large": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FJOB00545_Shop_in_Porto_Publicidade_Portal_Porto._banner_vertical_576x400_ggosFYp.png&w=1110&q=85"
+          },
+          "extraLarge": {
+            "url": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FJOB00545_Shop_in_Porto_Publicidade_Portal_Porto._banner_vertical_576x400_ggosFYp.png&w=2220&q=85"
+          }
+        },
+        "caption": null,
+        "linkPage": null,
+        "linkUrl": "https://www.porto.pt/en/news/goods-ideas-places-and-trends-served-up-by-shop-in-porto-the-traditional-trade-new-online-platform-",
+        "linkText": ""
+      }
+    ]
+  }
+}

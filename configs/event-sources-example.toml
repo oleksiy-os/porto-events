@@ -1,0 +1,17 @@
+### *** Event resources list***
+# EXAMPLE:
+#  [agendaculturalporto]
+#  url = "https://agendaculturalporto.org/agenda-maus-habitos-porto"
+#
+
+[[source]]
+name = "porto"
+url  = "https://www.porto.pt/api/graphql?queryName=PageByUrl&urlPath=/en/events/&startDate=2022-11-25&searchQuery=&page=1"
+
+[[source]]
+name = "agendaculturalporto"
+url  = "https://agendaculturalporto.org/agenda-maus-habitos-porto"
+
+#[[source]]
+#name = "teatromunicipaldoporto"
+#url  = "https://www.teatromunicipaldoporto.pt/en/programa/"

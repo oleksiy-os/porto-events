@@ -1,0 +1,12 @@
+### Send photo
+# multipart/form-data (use to upload files)
+# https://api.telegram.org/bot123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11/getMe
+# example # https://api.telegram.org/bot123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11/sendPhoto
+POST https://api.telegram.org/[token]/sendPhoto
+Content-Type: application/json
+
+{
+  "chat_id": "-10010000000",
+  "photo": "https://www.porto.pt/_next/image?url=https%3A%2F%2Fmedia.porto.pt%2Foriginal_images%2FIsabel_Mota_Fernando_Pereira_exposicao_Este_mundo_nao_nos_pertence_01.JPG&w=350&q=85",
+  "caption": "Test message \n with photo \n lorem10 slkdfjslkdfjlj"
+}

@@ -9,6 +9,8 @@ Telegram channel post screenshot
 ![screenshot-telegram-post.jpg](screenshot-telegram-post.jpg)
 
 ## Features
+- Scrap or get from API events list from a few resources
+- Send events to telegram channel
 - Web server: 
   - Showing collected events in list "New"
   - Init new events collect (add only new, not existed events)

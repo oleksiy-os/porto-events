@@ -233,7 +233,7 @@ func TestEventRepository_ChangeCategory(t *testing.T) {
 			wantOk: false,
 			args: store.ChangeCategoryData{
 				Id:       "event 2",
-				Category: 3,
+				Category: 5,
 			},
 		},
 	}
@@ -352,7 +352,7 @@ func Test_validateCategory(t *testing.T) {
 		{
 			name:    "not found",
 			wantErr: true,
-			args:    args{category: 3},
+			args:    args{category: 5},
 		},
 	}
 	for _, tt := range tests {

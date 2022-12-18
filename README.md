@@ -1,7 +1,7 @@
 Porto Events
 ====
 
-Collect Porto city events from popular resources and post theme to telegram chanel
+Collect Porto city events from popular resources and post them to telegram channel
 
 Web server screenshot
 ![screenshot-web-server.jpg](screenshot-web-server.jpg)
@@ -9,14 +9,14 @@ Telegram channel post screenshot
 ![screenshot-telegram-post.jpg](screenshot-telegram-post.jpg)
 
 ## Features
-- Scrap or get from API events list from a few resources
+- Scrap or get from API the list of events based on a few resources
 - Send events to telegram channel
 - Web server: 
-  - Showing collected events in list "New"
-  - Init new events collect (add only new, not existed events)
+  - Show collected events in the list "New"
+  - Init collection of new events (add only new, not existed events)
   - Edit/Delete events
   - Move new event to "Publish" list
-  - Init send "Publish" list to telegram
+  - Init sending "Publish" list to telegram
 - Store events in DB (BoltDB)
 
 #### Features under development
@@ -32,16 +32,16 @@ Telegram channel post screenshot
   - add telegram token & channel id
 
 ## Store data explanation
-At the beginning was idea store somewhere events. With ability see new events, edit and send to some list `to Publish`. From there get all events and send to telegram channel.
+The initial idea was to create a simple and handy solution to manage the information about the upcoming events.
+With the option to see new events, edit existing ones and send them to the `Publish` list with the further publishing into telegram channel.
+From start, where decision not create own web server with DB and website for that.
 
-First try was not create own web server with DB and website for that.
+Instead of that, app NOTION seemed to be better choice due to simple manipulation of events data for client.
+One note to store the configuration settings (how often to collect events from resources, how often to post to telegram, etc.). 
+One note to show/edit/delete the events list. 
+It seemed easy, since Notion has APi. But, nevertheless, it appeared that Notion uses difficult note data structure with different blocks, which made it difficult to operate the data via api to save and forward it to telegram.
 
-Was chosen like a great idea store data in notes app NOTION. For easy manipulation of events data for client.
-One note for configuration settings (how often collect events from resources, how often post to telegram and so on). 
-One note for events list to edit, and add tag `#publish` if event is ready to publish to telegram  
-Notion has APi so should be easy. But Notion has difficult note data structure. With different blocks. So not very easy to manipulate with data via api to save and after that to send to telegram.
-
-**So** was chosen other solution: Create own web server and store data in light key/value Bolt DB without any additional installation requirements for the hosting
+With this problem in mind, another solution was chosen (more classic). It was decided to create personal web server and store the data in light key/value DB (BoltDB) without any additional installation requirements for the hosting
 
 
 **Notion is under development stage. Not ready to use**

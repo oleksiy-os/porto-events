@@ -12,8 +12,8 @@
 <body>
 <h1 class="m-3">Porto events</h1>
 <div id="app" class="container-fluid pb-3">
-    <div class="d-flex" style="grid-template-columns: 1fr 2fr;">
-        <div class="rounded-3 p-3 w-50">
+    <div class="d-lg-flex">
+        <div class="rounded-3 p-3 col-12 col-lg-6">
             <div class="title d-flex justify-content-between mb-2">
                 <h3 class="w-50">New</h3>
                 <button @click="get" class="btn btn-primary">Get events</button>
@@ -22,13 +22,13 @@
                 <li v-for="e in events">
                     <Transition>
                     <div v-if="e.Category !== categoryPublish" class="event-article shadow-sm border-2 bg-light rounded-3 p-3 mb-2">
-                        <div class="event-content d-flex">
+                        <div class="event-content d-flex justify-content-between">
                             <div>
                                 <a v-text="e.Title" @click="edit(e)" href="#" class="text-decoration-none disabled"></a>
                                 <p v-text="truncate(e.Description, 70)" />
                                 <p v-text="e.DateText" />
                             </div>
-                            <img :src="e.Image" :alt="e.Title" class="d-block" width="180">
+                            <img :src="e.Image" :alt="e.Title" class="d-block h-100 ms-2" width="180">
                         </div>
                         <div class="action d-flex justify-content-between mt-3">
                             <button @click="del(e.ID)" class="btn btn-danger">Delete</button>
@@ -39,7 +39,7 @@
                 </li>
             </ul>
         </div>
-        <div class="rounded-3 p-3 w-50">
+        <div class="rounded-3 p-3 col-12 col-lg-6">
             <div class="title d-flex justify-content-between mb-2">
                 <h3 class="w-50">To publish</h3>
                 <button @click="publish" type="button" class="btn btn-primary">
@@ -53,13 +53,13 @@
                 <li v-for="e in events">
                     <Transition>
                     <div v-if="e.Category === categoryPublish" class="shadow-sm border-2 bg-light rounded-3 p-3 mb-2 event-article">
-                            <div class="event-content d-flex">
+                            <div class="event-content d-flex justify-content-between">
                                 <div>
                                     <a v-text="e.Title" @click="edit(e)" href="#" class="text-decoration-none disabled"></a>
                                     <p v-text="truncate(e.Description, 70)" />
                                     <p v-text="e.DateText" />
                                 </div>
-                                <img :src="e.Image" :alt="e.Title" class="d-block" width="180">
+                                <img :src="e.Image" :alt="e.Title" class="d-block h-100 ms-2" width="180">
                             </div>
                             <div class="action d-flex justify-content-between mt-3">
                                 <button @click="del(e.ID)" class="btn btn-danger">Delete</button>
@@ -71,7 +71,6 @@
             </ul>
         </div>
     </div>
-
 <hr>
 <button @click="add(e)" class="btn btn-dark disabled">Add new event (will be implemented soon)</button>
 

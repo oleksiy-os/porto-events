@@ -93,6 +93,13 @@ func (s *SourcePorto) LoadEvents(u *url.URL) []m.Event {
 	return events
 }
 
+func New(sourceConfig m.Source) *SourcePorto {
+	return &SourcePorto{
+		Name: sourceConfig.Name,
+		Url:  sourceConfig.Url,
+	}
+}
+
 func getTime(dates Dates) time.Time {
 	layoutInput := "2006-01-02 15:04:05" // input format in json 2022-05-12 10:00:00
 
@@ -221,11 +228,4 @@ func parseDate(dates Dates) (DateText string, Time string) {
 
 	return start.Format(layoutOutDate) + " - " + end.Format(layoutOutDate),
 		start.Format(layoutOutTime) + " - " + end.Format(layoutOutTime)
-}
-
-func New(sourceConfig m.Source) *SourcePorto {
-	return &SourcePorto{
-		Name: sourceConfig.Name,
-		Url:  sourceConfig.Url,
-	}
 }

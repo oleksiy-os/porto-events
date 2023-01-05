@@ -2,6 +2,7 @@ package event
 
 import (
 	"github.com/oleksiy-os/porto-events/internal/model"
+	"github.com/oleksiy-os/porto-events/internal/model/sourceList/agendaCulturalPorto"
 	"github.com/oleksiy-os/porto-events/internal/model/sourceList/porto"
 	"github.com/oleksiy-os/porto-events/internal/model/sourceList/testing"
 	log "github.com/sirupsen/logrus"
@@ -35,14 +36,13 @@ func Collect(sources []model.Source) *[]model.Event {
 		switch item.Name {
 		case "porto":
 			src = porto.New(item)
-
+		case "agendaculturalporto":
+			src = agendaCulturalPorto.New(item)
 		case "testing":
 			src = testing.New() // only for tests purpose
 
 		// ** will be added soon **
 		// *********
-		//case "agendaculturalporto":
-		//	src = sourceList.SourceAgendaculturalporto(item)
 		//case "teatromunicipaldoporto":
 		//	src = sourceList.Teatromunicipaldoporto(item)
 

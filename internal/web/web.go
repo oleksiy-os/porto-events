@@ -180,8 +180,6 @@ func (s *Server) getHandler(w http.ResponseWriter, r *http.Request) {
 		w.WriteHeader(http.StatusInternalServerError)
 		return
 	}
-
-	w.WriteHeader(http.StatusOK)
 }
 
 func (s *Server) staticHandler(w http.ResponseWriter, r *http.Request) {

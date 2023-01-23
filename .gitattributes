@@ -1,2 +1,2 @@
 # any file in folder "tests"
-**/tests linguist-vendored
+tests/** linguist-vendored

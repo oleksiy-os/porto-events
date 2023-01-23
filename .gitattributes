@@ -1,1 +1,2 @@
-**/tests linguist-vendored # any file in folder "tests"
+# any file in folder "tests"
+**/tests linguist-vendored
